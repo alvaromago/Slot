@@ -47,23 +47,11 @@ public class Controlador implements WindowListener, MouseListener
 		}
 	}
 
-	public void mousePressed(MouseEvent me)
-	{
-		
-	}
+	public void mousePressed(MouseEvent me){}
 
-	public void mouseReleased(MouseEvent me)
-	{
-		
-	}
+	public void mouseReleased(MouseEvent me){}
 
-	public void mouseEntered(MouseEvent me)
-	{
-		
-	}
+	public void mouseEntered(MouseEvent me){}
 
-	public void mouseExited(MouseEvent me)
-	{
-		
-	}
+	public void mouseExited(MouseEvent me){}
 }
